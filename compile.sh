@@ -1,0 +1,1 @@
+javac -d bin -sourcepath src src/edu/mccc/cos210/demo/maze/Maze.java
